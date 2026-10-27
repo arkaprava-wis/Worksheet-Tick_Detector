@@ -1,62 +1,78 @@
 {
   "1A": {
-    "dark_pixels": 64,
+    "dark_pixels": 84,
     "marked": true
+  },
+  "1B": {
+    "dark_pixels": 0,
+    "marked": false
+  },
+  "1C": {
+    "dark_pixels": 0,
+    "marked": false
   },
   "2A": {
-    "dark_pixels": 56,
+    "dark_pixels": 86,
     "marked": true
   },
+  "2B": {
+    "dark_pixels": 0,
+    "marked": false
+  },
+  "2C": {
+    "dark_pixels": 0,
+    "marked": false
+  },
   "3A": {
-    "dark_pixels": 92,
+    "dark_pixels": 82,
     "marked": true
   },
   "3B": {
-    "dark_pixels": 27,
-    "marked": true
+    "dark_pixels": 0,
+    "marked": false
   },
   "3C": {
-    "dark_pixels": 45,
-    "marked": true
+    "dark_pixels": 0,
+    "marked": false
   },
   "4A": {
-    "dark_pixels": 50,
+    "dark_pixels": 84,
     "marked": true
   },
   "4B": {
-    "dark_pixels": 44,
-    "marked": true
+    "dark_pixels": 0,
+    "marked": false
   },
   "4C": {
-    "dark_pixels": 76,
-    "marked": true
+    "dark_pixels": 0,
+    "marked": false
   },
   "5A": {
-    "dark_pixels": 71,
+    "dark_pixels": 90,
     "marked": true
   },
   "5B": {
-    "dark_pixels": 52,
-    "marked": true
+    "dark_pixels": 0,
+    "marked": false
   },
   "5C": {
-    "dark_pixels": 27,
-    "marked": true
+    "dark_pixels": 0,
+    "marked": false
   },
   "6A": {
-    "dark_pixels": 71,
+    "dark_pixels": 108,
     "marked": true
   },
   "6B": {
-    "dark_pixels": 12,
+    "dark_pixels": 0,
     "marked": false
   },
   "6C": {
-    "dark_pixels": 20,
-    "marked": true
+    "dark_pixels": 0,
+    "marked": false
   },
   "7A": {
-    "dark_pixels": 63,
+    "dark_pixels": 74,
     "marked": true
   },
   "7B": {
@@ -64,47 +80,47 @@
     "marked": false
   },
   "7C": {
-    "dark_pixels": 2,
-    "marked": false
-  },
-  "8A": {
-    "dark_pixels": 6,
-    "marked": false
-  },
-  "8B": {
-    "dark_pixels": 56,
+    "dark_pixels": 19,
     "marked": true
   },
-  "8C": {
+  "8A": {
+    "dark_pixels": 105,
+    "marked": true
+  },
+  "8B": {
     "dark_pixels": 0,
     "marked": false
   },
+  "8C": {
+    "dark_pixels": 27,
+    "marked": true
+  },
   "9A": {
-    "dark_pixels": 39,
+    "dark_pixels": 100,
     "marked": true
   },
   "9B": {
-    "dark_pixels": 34,
-    "marked": true
+    "dark_pixels": 0,
+    "marked": false
   },
   "9C": {
-    "dark_pixels": 35,
+    "dark_pixels": 54,
     "marked": true
   },
   "10A": {
-    "dark_pixels": 24,
+    "dark_pixels": 35,
     "marked": true
   },
   "10B": {
-    "dark_pixels": 0,
-    "marked": false
+    "dark_pixels": 90,
+    "marked": true
   },
   "10C": {
-    "dark_pixels": 0,
-    "marked": false
+    "dark_pixels": 20,
+    "marked": true
   },
   "11A": {
-    "dark_pixels": 32,
+    "dark_pixels": 110,
     "marked": true
   },
   "11B": {
@@ -112,175 +128,283 @@
     "marked": false
   },
   "11C": {
-    "dark_pixels": 44,
+    "dark_pixels": 52,
     "marked": true
   },
   "12A": {
-    "dark_pixels": 42,
+    "dark_pixels": 82,
     "marked": true
   },
   "12B": {
-    "dark_pixels": 63,
-    "marked": true
-  },
-  "12C": {
     "dark_pixels": 0,
     "marked": false
   },
+  "12C": {
+    "dark_pixels": 26,
+    "marked": true
+  },
   "13A": {
-    "dark_pixels": 41,
+    "dark_pixels": 84,
     "marked": true
   },
   "13B": {
-    "dark_pixels": 53,
-    "marked": true
-  },
-  "13C": {
     "dark_pixels": 0,
     "marked": false
   },
+  "13C": {
+    "dark_pixels": 19,
+    "marked": true
+  },
   "14A": {
-    "dark_pixels": 41,
+    "dark_pixels": 95,
     "marked": true
   },
   "14B": {
-    "dark_pixels": 81,
-    "marked": true
+    "dark_pixels": 0,
+    "marked": false
   },
   "14C": {
     "dark_pixels": 0,
     "marked": false
   },
   "15A": {
-    "dark_pixels": 29,
+    "dark_pixels": 74,
     "marked": true
   },
   "15B": {
-    "dark_pixels": 78,
-    "marked": true
+    "dark_pixels": 0,
+    "marked": false
   },
   "15C": {
-    "dark_pixels": 0,
+    "dark_pixels": 14,
     "marked": false
   },
   "16A": {
-    "dark_pixels": 81,
+    "dark_pixels": 85,
     "marked": true
   },
   "16B": {
-    "dark_pixels": 69,
-    "marked": true
-  },
-  "16C": {
     "dark_pixels": 0,
     "marked": false
   },
-  "17A": {
-    "dark_pixels": 57,
-    "marked": true
-  },
-  "17B": {
-    "dark_pixels": 90,
-    "marked": true
-  },
-  "17C": {
+  "16C": {
     "dark_pixels": 20,
     "marked": true
   },
+  "17A": {
+    "dark_pixels": 94,
+    "marked": true
+  },
+  "17B": {
+    "dark_pixels": 38,
+    "marked": true
+  },
+  "17C": {
+    "dark_pixels": 0,
+    "marked": false
+  },
   "18A": {
-    "dark_pixels": 93,
+    "dark_pixels": 80,
     "marked": true
   },
   "18B": {
-    "dark_pixels": 96,
-    "marked": true
-  },
-  "18C": {
-    "dark_pixels": 11,
+    "dark_pixels": 0,
     "marked": false
   },
+  "18C": {
+    "dark_pixels": 18,
+    "marked": true
+  },
   "19A": {
-    "dark_pixels": 114,
+    "dark_pixels": 84,
     "marked": true
   },
   "19B": {
-    "dark_pixels": 66,
-    "marked": true
-  },
-  "19C": {
-    "dark_pixels": 5,
+    "dark_pixels": 0,
     "marked": false
   },
+  "19C": {
+    "dark_pixels": 17,
+    "marked": true
+  },
   "20A": {
-    "dark_pixels": 137,
+    "dark_pixels": 84,
     "marked": true
   },
   "20B": {
-    "dark_pixels": 88,
-    "marked": true
+    "dark_pixels": 0,
+    "marked": false
   },
   "20C": {
-    "dark_pixels": 29,
+    "dark_pixels": 23,
     "marked": true
   },
   "21A": {
-    "dark_pixels": 212,
+    "dark_pixels": 95,
     "marked": true
   },
   "21B": {
-    "dark_pixels": 129,
-    "marked": true
+    "dark_pixels": 0,
+    "marked": false
   },
   "21C": {
-    "dark_pixels": 55,
+    "dark_pixels": 67,
     "marked": true
   },
   "22A": {
-    "dark_pixels": 58,
+    "dark_pixels": 83,
     "marked": true
   },
   "22B": {
+    "dark_pixels": 0,
+    "marked": false
+  },
+  "22C": {
     "dark_pixels": 47,
     "marked": true
   },
-  "22C": {
-    "dark_pixels": 7,
-    "marked": false
-  },
   "23A": {
-    "dark_pixels": 166,
+    "dark_pixels": 101,
     "marked": true
   },
   "23B": {
-    "dark_pixels": 112,
-    "marked": true
+    "dark_pixels": 0,
+    "marked": false
   },
   "23C": {
-    "dark_pixels": 218,
+    "dark_pixels": 47,
     "marked": true
   },
   "24A": {
-    "dark_pixels": 175,
+    "dark_pixels": 88,
     "marked": true
   },
   "24B": {
-    "dark_pixels": 145,
-    "marked": true
+    "dark_pixels": 0,
+    "marked": false
   },
   "24C": {
-    "dark_pixels": 125,
+    "dark_pixels": 15,
     "marked": true
   },
   "25A": {
-    "dark_pixels": 390,
+    "dark_pixels": 90,
     "marked": true
   },
   "25B": {
-    "dark_pixels": 142,
-    "marked": true
+    "dark_pixels": 0,
+    "marked": false
   },
   "25C": {
-    "dark_pixels": 43,
+    "dark_pixels": 69,
+    "marked": true
+  },
+  "26A": {
+    "dark_pixels": 86,
+    "marked": true
+  },
+  "26B": {
+    "dark_pixels": 0,
+    "marked": false
+  },
+  "26C": {
+    "dark_pixels": 20,
+    "marked": true
+  },
+  "27A": {
+    "dark_pixels": 86,
+    "marked": true
+  },
+  "27B": {
+    "dark_pixels": 0,
+    "marked": false
+  },
+  "27C": {
+    "dark_pixels": 27,
+    "marked": true
+  },
+  "28A": {
+    "dark_pixels": 98,
+    "marked": true
+  },
+  "28B": {
+    "dark_pixels": 0,
+    "marked": false
+  },
+  "28C": {
+    "dark_pixels": 51,
+    "marked": true
+  },
+  "29A": {
+    "dark_pixels": 80,
+    "marked": true
+  },
+  "29B": {
+    "dark_pixels": 0,
+    "marked": false
+  },
+  "29C": {
+    "dark_pixels": 17,
+    "marked": true
+  },
+  "30A": {
+    "dark_pixels": 84,
+    "marked": true
+  },
+  "30B": {
+    "dark_pixels": 0,
+    "marked": false
+  },
+  "30C": {
+    "dark_pixels": 18,
+    "marked": true
+  },
+  "31A": {
+    "dark_pixels": 95,
+    "marked": true
+  },
+  "31B": {
+    "dark_pixels": 0,
+    "marked": false
+  },
+  "31C": {
+    "dark_pixels": 15,
+    "marked": true
+  },
+  "32A": {
+    "dark_pixels": 89,
+    "marked": true
+  },
+  "32B": {
+    "dark_pixels": 0,
+    "marked": false
+  },
+  "32C": {
+    "dark_pixels": 66,
+    "marked": true
+  },
+  "33A": {
+    "dark_pixels": 89,
+    "marked": true
+  },
+  "33B": {
+    "dark_pixels": 0,
+    "marked": false
+  },
+  "33C": {
+    "dark_pixels": 26,
+    "marked": true
+  },
+  "34A": {
+    "dark_pixels": 103,
+    "marked": true
+  },
+  "34B": {
+    "dark_pixels": 0,
+    "marked": false
+  },
+  "34C": {
+    "dark_pixels": 33,
     "marked": true
   }
 }
